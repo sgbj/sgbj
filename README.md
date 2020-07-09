@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5178445/87101528-f859f180-c214-11ea-8e96-88aa54366d49.gif" alt="Hi there, I'm sgbj! Welcome to my GitHub Profile.">
+</p>
 
 <!--
 **sgbj/sgbj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
