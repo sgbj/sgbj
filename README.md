@@ -4,6 +4,3 @@ I'm a full-stack developer based in Oklahoma.
 
 * 🧑‍💻 I'm passionate about building intuitive and scalable software solutions that make a positive impact.
 * 📚 I love learning new things! Lately, I've been exploring Next.js, Babylon.js, and Phaser.
-* 🎮 Beyond coding, I enjoy playing games like Overwatch, Dead by Daylight, and recently, Baldur's Gate 3.
-
-Let's connect and create something awesome! ✨
